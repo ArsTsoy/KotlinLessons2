@@ -1,4 +1,4 @@
-package com.company.classes
+package classes
 
 import java.lang.Exception
 

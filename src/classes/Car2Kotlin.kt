@@ -1,4 +1,4 @@
-package com.company.classes
+package classes
 
 //2-ой способ конструктора
 class Car2Kotlin(

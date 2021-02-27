@@ -1,4 +1,4 @@
-package com.company.classes
+package classes
 
 //3-ый способ конструктора (РАБОТАЕТ ТОЛЬКО В KOTLIN классах)
 class Car3Kotlin(

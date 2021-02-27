@@ -1,5 +1,3 @@
-package com.company
-
 fun main() {
 //    while (true) {
 //

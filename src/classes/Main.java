@@ -1,6 +1,6 @@
 package classes;
 
-import com.company.classes.Car2Kotlin;import com.company.classes.CarJava;public class Main {
+public class Main {
 
     public static void main(String[] args) {
         CarJava carJava = new CarJava("asnjfk", 12, 150);
