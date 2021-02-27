@@ -1,5 +1,6 @@
 fun main() {
-    println("fashfaknsjf")
+    val s = "fasf"
+    println("fasf" + " " + s)
 }
 
 fun method(): Boolean {
